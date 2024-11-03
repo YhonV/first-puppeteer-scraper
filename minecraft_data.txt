@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Debilidad",
+    "description": "Ojo de araña fermentado"
+  },
+  {
+    "title": "Debilidad extendido",
+    "description": "Ojo de araña fermentado → Redstone"
+  },
+  {
+    "title": "Fuerza",
+    "description": "Verruga del Nether → Polvo de blaze"
+  },
+  {
+    "title": "Fuerza extendido",
+    "description": "Verruga del Nether → Polvo de blaze → Redstone"
+  },
+  {
+    "title": "Fuerza II",
+    "description": "Verruga del Nether → Polvo de blaze → Polvo de piedra luminosa"
+  },
+  {
+    "title": "Regeneración",
+    "description": "Verruga del Nether → Lágrima de ghast"
+  },
+  {
+    "title": "Regeneración extendido",
+    "description": "Verruga del Nether → Lágrima de ghast → Redstone"
+  },
+  {
+    "title": "Regeneración II",
+    "description": "Verruga del Nether → Lágrima de ghast → Polvo de piedra luminosa"
+  },
+  {
+    "title": "Velocidad",
+    "description": "Verruga del Nether → Azúcar"
+  },
+  {
+    "title": "Velocidad extendido",
+    "description": "Verruga del Nether → Azúcar → Redstone"
+  },
+  {
+    "title": "Velocidad II",
+    "description": "Verruga del Nether → Azúcar → Polvo de piedra luminosa"
+  },
+  {
+    "title": "Lentitud",
+    "description": "Verruga del Nether → Azúcar → Ojo de araña fermentado"
+  },
+  {
+    "title": "Lentitud extendido",
+    "description": "Verruga del Nether → Pata de conejo → Ojo de araña fermentado"
+  },
+  {
+    "title": "Curación",
+    "description": "Verruga del Nether → Azúcar → Ojo de araña fermentado ↔ Redstone"
+  },
+  {
+    "title": "Curación II",
+    "description": "Verruga del Nether → Pata de conejo → Ojo de araña fermentado ↔ Redstone"
+  },
+  {
+    "title": "Daño instantáneo",
+    "description": "Verruga del Nether → Rodaja de sandía reluciente"
+  },
+  {
+    "title": "Daño instantáneo II",
+    "description": "Verruga del Nether → Rodaja de sandía reluciente → Polvo de piedra luminosa"
+  },
+  {
+    "title": "Veneno",
+    "description": "Verruga del Nether → Rodaja de sandía reluciente → Ojo de araña fermentado"
+  },
+  {
+    "title": "Veneno extendido",
+    "description": "Verruga del Nether → Ojo de araña → Ojo de araña fermentado"
+  },
+  {
+    "title": "Veneno II",
+    "description": "Verruga del Nether → Rodaja de sandía reluciente → Ojo de araña fermentado ↔ Polvo de piedra luminosa"
+  },
+  {
+    "title": "Ignífuga",
+    "description": "Verruga del Nether → Ojo de araña → Ojo de araña fermentado ↔ Polvo de piedra luminosa"
+  },
+  {
+    "title": "Ignífuga extendido",
+    "description": "Verruga del Nether → Ojo de araña"
+  },
+  {
+    "title": "Visión nocturna",
+    "description": "Verruga del Nether → Ojo de araña → Redstone"
+  },
+  {
+    "title": "Visión nocturna extendido",
+    "description": "Verruga del Nether → Ojo de araña → Polvo de piedra luminosa"
+  },
+  {
+    "title": "Invisibilidad",
+    "description": "Verruga del Nether → Crema de magma"
+  },
+  {
+    "title": "Invisibilidad extendido",
+    "description": "Verruga del Nether → Crema de magma → Redstone"
+  },
+  {
+    "title": "Apnea",
+    "description": "Verruga del Nether → Zanahoria dorada"
+  },
+  {
+    "title": "Apnea extendido",
+    "description": "Verruga del Nether → Zanahoria dorada → Redstone"
+  },
+  {
+    "title": "Súpersalto",
+    "description": "Verruga del Nether → Zanahoria dorada → Ojo de araña fermentado"
+  },
+  {
+    "title": "Súpersalto II",
+    "description": "Verruga del Nether → Zanahoria dorada → Ojo de araña fermentado ↔ Redstone"
+  },
+  {
+    "title": "Súpersalto extendido",
+    "description": "Verruga del Nether → Pez globo"
+  }
+]
